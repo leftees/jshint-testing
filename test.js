@@ -1,6 +1,6 @@
 function myDopeFunction(a, b) {
   var x = myAwesomeFunction(1, 2);
-  var y = myReallyAwesomeFunction(3, 4);
+  var y = myReallyAwesomeFunction(5, 4);
   
   var nums = [];
 
