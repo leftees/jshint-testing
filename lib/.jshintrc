@@ -1,6 +1,3 @@
 {
-	"globals"   : {
-	    "myAwesomeFunction"  : true,
-	    "myReallyAwesomeFunction"  : true
-	}
+	"loopfunc"  	: true
 }
