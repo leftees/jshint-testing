@@ -1,1 +1,6 @@
-
+{
+	"globals"   : {
+	    "myAwesomeFunction"  : true,
+	    "myReallyAwesomeFunction"  : true
+	}
+}
