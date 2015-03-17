@@ -1,3 +1,5 @@
+/* jshint undef: false */
+
 'use strict';
 
 var angularFiles = {
