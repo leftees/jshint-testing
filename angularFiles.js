@@ -1,4 +1,4 @@
-/* jshint undef: false */
+/* jshint -W117 */
 
 'use strict';
 
