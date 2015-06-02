@@ -1,6 +1,6 @@
 {
 
-	"asi"		: true,
+	"asi"		:  true,
 	"bitwise"	:  true,
 	"curly"		:  true,
 	"eqeqeq"	:  true,
@@ -17,7 +17,5 @@
 	"node"		:  true,
 	"browser"	:  true,
 	"jquery"	:  true,
-	 
-	globals: {}
 
 }
