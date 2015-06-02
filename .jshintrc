@@ -16,6 +16,6 @@
 	"unused"	:  true,
 	"node"		:  true,
 	"browser"	:  true,
-	"jquery"	:  true,
+	"jquery"	:  true
 
 }
