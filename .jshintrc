@@ -6,7 +6,7 @@
 	"forin"		:  true,
 	"immed"		:  true,
 	"latedef"	:  "nofunc",
-	"maxparams	:  4,
+	"maxparams"	:  4,
 	"newcap"	:  true,
 	"noarg"		:  true,
 	"noempty"	:  true,
