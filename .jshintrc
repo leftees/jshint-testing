@@ -1,26 +1,22 @@
 {
-	# Checks
-	bitwise:   true,
-	curly:     true,
-	eqeqeq:    true,
-	forin:     true,
-	immed:     true,
-	latedef:   "nofunc",
-	maxparams: 4,
-	newcap:    true,
-	noarg:     true,
-	noempty:   true,
-	nonew:     true,
-	undef:     true,
-	unused:    true,
+
+	"bitwise"	:  true,
+	"curly"		:  true,
+	"eqeqeq"	:  true,
+	"forin"		:  true,
+	"immed"		:  true,
+	"latedef"	:  "nofunc",
+	"maxparams	:  4,
+	"newcap"	:  true,
+	"noarg"		:  true,
+	"noempty"	:  true,
+	"nonew"		:  true,
+	"undef"		:  true,
+	"unused"	:  true,
+	"node"		:  true,
+	"browser"	:  true,
+	"jquery"	:  true,
 	 
-	# Environments
-	node:     true,
-	browser:  true,
-	jquery:   true,
-	 
-	globals: {
-	  Ember: false
-	}
+	globals: {}
 
 }
