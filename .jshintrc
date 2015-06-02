@@ -1,6 +1,26 @@
 {
-	"globals"   : {
-	    "myAwesomeFunction"  : true,
-	    "myReallyAwesomeFunction"  : true
+	# Checks
+	bitwise:   true,
+	curly:     true,
+	eqeqeq:    true,
+	forin:     true,
+	immed:     true,
+	latedef:   "nofunc",
+	maxparams: 4,
+	newcap:    true,
+	noarg:     true,
+	noempty:   true,
+	nonew:     true,
+	undef:     true,
+	unused:    true,
+	 
+	# Environments
+	node:     true,
+	browser:  true,
+	jquery:   true,
+	 
+	globals: {
+	  Ember: false
 	}
+
 }
