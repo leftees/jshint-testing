@@ -10,7 +10,7 @@ function myDopeFunction(a, b) {
     };
   }
   
-  nums[0](2); // Prints 12 instead of 2!
+  nums[0](2); // Prints 12 instead of 2!!
   
   return a * b;
 }
