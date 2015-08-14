@@ -6,7 +6,7 @@
 	"eqeqeq"	:  true,
 	"forin"		:  true,
 	"immed"		:  true,
-	"latedef"	:  "nofunc",
+	"latedef"	:  true,
 	"maxparams"	:  4,
 	"newcap"	:  true,
 	"noarg"		:  true,
