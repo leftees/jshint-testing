@@ -13,13 +13,14 @@
 	"noempty"	:  true,
 	"nonew"		:  true,
 	"undef"		:  true,
-	"unused"	:  true,
+	"unused"	:  vars,
 	"node"		:  true,
 	"browser"	:  true,
 	"jquery"	:  true,
 	"loopfunc" 	: true,
 	"globals"	:  {
-   	"myAwesomeFunction": true
+   		"myAwesomeFunction": true,
+   		"myReallyAwesomeFunction": true
   	}
 
 }
