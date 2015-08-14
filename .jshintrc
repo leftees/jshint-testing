@@ -1,5 +1,7 @@
 {
 
+// adding comment
+
 	"asi"		:  true,
 	"bitwise"	:  true,
 	"curly"		:  true,
@@ -22,6 +24,6 @@
    		"myAwesomeFunction": true,
    		"myReallyAwesomeFunction": true
   	}
-  	
+
 
 }
