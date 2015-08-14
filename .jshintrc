@@ -6,7 +6,7 @@
 	"eqeqeq"	:  true,
 	"forin"		:  true,
 	"immed"		:  true,
-	"latedef"	:  true,
+	"latedef"	:  "nofunc",
 	"maxparams"	:  4,
 	"newcap"	:  true,
 	"noarg"		:  true,
@@ -16,6 +16,9 @@
 	"unused"	:  true,
 	"node"		:  true,
 	"browser"	:  true,
-	"jquery"	:  true
+	"jquery"	:  true,
+	"globals"	:  {
+   	"myAwesomeFunction": false
+  	}
 
 }
