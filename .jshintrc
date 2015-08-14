@@ -17,8 +17,9 @@
 	"node"		:  true,
 	"browser"	:  true,
 	"jquery"	:  true,
+	"loopfunc" 	: true,
 	"globals"	:  {
-   	"myAwesomeFunction": false
+   	"myAwesomeFunction": true
   	}
 
 }
