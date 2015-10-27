@@ -5,7 +5,8 @@ engines:
   eslint:
     enabled: true
   csslint:
-    enabled: true
+    enabled: false
+  
 ratings:
   paths:
   - "**.rb"
